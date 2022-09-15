@@ -36,6 +36,10 @@ Essa análise retorna uma quantidade de informações relevantes de um base de d
 * Matlplotlib 
 
 # Características do DataFrame
+## Anos Que os Dados Foram Coletados
+- 2008
+- 2009
+
 ## Marcas 
 - Adventure Works 
 - Contoso
@@ -66,6 +70,16 @@ Essa análise retorna uma quantidade de informações relevantes de um base de d
         - 8.47 Dias
     - Fabrikam           
         - 8.51 Dias
+## Análises Gráficas
+- [x] Lucro Por Ano 
+    <p>
+    <img src="graphics/lucroxano.png" width="100%">
+    </p>
+- [x] Total de Cada Produto Vendido
+    <p>
+    <img src="graphics/total_produtos_vendidos.png" width="100%">
+    </p>
+
 
 # Autor
 
