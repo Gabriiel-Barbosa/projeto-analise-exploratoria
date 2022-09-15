@@ -36,6 +36,11 @@ Essa análise retorna uma quantidade de informações relevantes de um base de d
 * Matlplotlib 
 
 # Características do DataFrame
+## Marcas 
+- Adventure Works 
+- Contoso
+- Fabrikam 
+
 ## Produtos
 - Fabrikam Trendsetter 1/3'' 8.5mm X200 White
 - Fabrikam Trendsetter 1/3'' 8.5mm X200 Grey
@@ -53,6 +58,14 @@ Essa análise retorna uma quantidade de informações relevantes de um base de d
     - 2486783.05
 - [x] Lucro
     - 3497823.0
+- [x] Total de Dias Para Enviar o Produto
+- [x] Média de Envio Por Marca
+    - Adventure Works
+        - 8.66 Dias
+    - Contoso
+        - 8.47 Dias
+    - Fabrikam           
+        - 8.51 Dias
 
 # Autor
 
