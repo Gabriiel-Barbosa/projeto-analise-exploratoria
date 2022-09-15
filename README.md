@@ -17,14 +17,14 @@ Essa análise foi fruto de um projeto prospoto pela DIO no <strong>  Bootcamp Ge
 </div>
 
 <h4 align = "center">
-Projeto Em Adamento 
+✔️Projeto Em Concluído✔️ 
 
 </h4>
 
 
 # Sobre
 
-Essa análise retorna uma quantidade de informações relevantes de um base de dados de vendas. Essa análise abrange requisitos básicos e coisas rotineiras que um cientista de dados vê e executa no dia á dia.
+Essa análise retorna  informações relevantes de um base de dados de vendas. Essa análise abrange requisitos básicos e coisas rotineiras que um cientista de dados vê e executa no dia á dia.
 
 
 # Tecnologias
@@ -70,6 +70,7 @@ Essa análise retorna uma quantidade de informações relevantes de um base de d
         - 8.47 Dias
     - Fabrikam           
         - 8.51 Dias
+
 ## Análises Gráficas
 - [x] Lucro Por Ano 
     <p>
@@ -80,6 +81,29 @@ Essa análise retorna uma quantidade de informações relevantes de um base de d
     <img src="graphics/total_produtos_vendidos.png" width="100%">
     </p>
 
+## Análise de Vendas do Ano de 2019
+- [x] Vendas Por Mês 
+    <p>
+    <img src="graphics/vendas_por_mes.png" width="100%">
+    </p>
+- [x] Lucro Por Marca (2019)
+    <p>
+    <img src="graphics/lucro_por_marca_2019.png" width="100%">
+    </p>
+
+## Estatísticas
+- [x] Tempo de Envio
+    <p>
+    <img src="graphics/estatisticas.png" width="100%">
+    </p>
+- [x] Outliers (Tempo de Envio)
+    <p>
+    <img src="graphics/outliers.png" width="100%">
+    </p>
+- [x] Histograma (Tempo de Envio)
+<p>
+    <img src="graphics/histograma.png" width="100%">
+    </p>
 
 # Autor
 
